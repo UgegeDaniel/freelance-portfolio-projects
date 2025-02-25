@@ -67,3 +67,11 @@ NextBlog is a modern web application built using Next.js, React, TypeScript, and
 
 This project will not only highlight my expertise in React, Next.js, TypeScript, and JavaScript but also demonstrate my ability to build high-performance, SEO-optimized web applications.
 
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or Yarn
+- Git
+- Code editor (e.g., VSCode)
+- Basic knowledge of Next.js, React, and Tailwind CSS
+
+
