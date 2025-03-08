@@ -1,0 +1,28 @@
+.text-custom {
+  @apply text-secondary-dark;
+}
+
+.active,
+.login-active {
+  @apply border-b-4 border-blue-700 font-bold;
+}
+
+.login-active {
+  @apply rounded-l-md;
+}
+
+.main-style {
+  position: relative;
+  border-bottom: 10px solid var(--indie-creator-yellow);
+}
+
+.main-style::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 10px;
+  background-image: var(--border-gradient);
+  z-index: 1;
+}
